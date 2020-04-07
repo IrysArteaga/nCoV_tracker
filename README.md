@@ -13,7 +13,7 @@ El propósito del dashborad es mostrar la situación real del Covid-19 a nivel m
 
 ## Créditos y Versión original
 
-Dr Edward Parker, The Vaccine Centre, London School of Hygiene & Tropical Medicine Quentin Leclerc, Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine Covid 2019 interactive mapping tool 
+Dr Edward Parker, The Vaccine Centre, London School of Hygiene & Tropical Medicine Quentin Leclerc, Department of Infectious Disease Epidemiology, London School of Hygiene & Tropical Medicine Covid 2019 interactive mapping tool         
 https://vac-lshtm.shinyapps.io/ncov_tracker/.
 
 Incluye código adaptado de los siguientes orígenes:
